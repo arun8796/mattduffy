@@ -1,0 +1,8 @@
+.DS_Store
+*.pdf
+npm-debug.log
+node_module
+*.tar
+*.tgz
+tmp
+

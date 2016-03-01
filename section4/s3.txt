@@ -1,0 +1,17 @@
+MyS3User
+Access Key ID:AKIAJZ7BLLFWSJU2LIDQ
+Secret Access Key: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
+
+s3 group policy:
+{
+	  "Version": "2012-10-17",
+	    "Statement": [
+		    {
+				"Effect": "Allow",
+				"Action": "s3:*",
+				"Resource": "*"
+			}
+		]
+}
+
+

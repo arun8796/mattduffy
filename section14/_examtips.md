@@ -1,0 +1,2 @@
+=== Shared Responsibility Security Model
+
